@@ -1,0 +1,36 @@
+body{
+    background-image: url(waves.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.heading {
+    font-size: 25px;
+    width: 100%;
+    box-shadow: 5px 5px 5px grey;
+    margin-top: 10px;
+}
+
+.note{
+    font-size: 15px;
+    color: black;
+}
+
+.footer{
+    position: fixed;
+    color: black;
+    bottom: 0;
+    width: 100%;
+    line-height: 2.5;
+    background-color: lightblue;
+    text-align: center;
+    margin-top: 100px;
+    font-size: 15px;
+}
+
+canvas {
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow:  5px 5px 5px grey;
+}
